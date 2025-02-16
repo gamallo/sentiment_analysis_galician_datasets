@@ -1,5 +1,5 @@
-# sentiment_analysis_galician_datasets
-Datasets to train a sentiment analysis model for Galician language
+# Galician datasets for sentiment analysis
+Datasets to train and test models and systems of sentiment analysis for Galician language
 
 ## Datasets
 * Train dataset: `train.tsv`
