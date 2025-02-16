@@ -1,0 +1,999 @@
+text	sentiment
+A auga é esencial para a vida.	0
+A avoa recordou as súas viaxes cando era moza.	0
+A biblioteca expuxo libros antigos na sala principal.	0
+A cama estaba feita unha guarrada	2
+A casa está pintada de branco.	0
+A cea está lista.	0
+A choiva é necesaria para as plantas.	0
+A cidade organizou unha feira medieval o verán pasado.	0
+A comida está a ser preparada na cozinha.	0
+A decoración foi o único que non nos gustou, pero moi recomendábel.	1
+A escola estaba deserta cando pasei por alí.	0
+A historia é completamente farragosa	2
+A lúa brilla no ceo pola noite.	0
+A miña avoa contoume historias do seu tempo.	0
+A miña tía díxome que fose igual pero non imos caber	0
+A neve caeu abundantemente no inverno pasado.	0
+A noite pasada, soñei con viaxar ao redor do mundo.	0
+A obra de teatro representouse no auditorio principal.	0
+A parella casou hai dous anos.	0
+A pelota rompeu a fiestra da casa veciña.	2
+A pesar da falta de fondos, o proxecto avanzou.	1
+A pesar das críticas, o libro vendeu moitas copias.	1
+A pesar de non ser un experto, podo ver que este coche é moi rápido.	1
+A pesar de que non son un amante do cine, esta película gustoume.	1
+A pesar do mal tempo, desfrutamos moito das vacacións.	1
+A pesar dos erros, a experiencia foi enriquecedora.	1
+A pesar dos obstáculos, conseguimos alcanzar os nosos obxectivos.	1
+A pesar dos problemas iniciais, o proxecto finalizou con éxito.	1
+A pesar dos problemas, a xente seguiu apoiando o evento.	1
+A praia enchese de xente no primeiro día de calor.	1
+A primavera florece con cores vivas.	1
+A semana pasada, choveu muito nesta zona.	0
+A televisión amosou noticias sobre o novo descubrimento científico.	0
+A túa irmá foi a mellor na súa actuación de teatro.	1
+Agora as nosas ferramentas son máis eficaces, á diferenza de antes.	1
+Agora temos unha visión máis clara do futuro, á diferenza de antes.	1
+Ainda que chegue tarde, chego	0
+Aínda que non é fácil, é posible facelo.	0
+Aínda que non é o que esperaba, estou contento co resultado.	1
+Aínda que non é tan eficiente como esperaba, é funcional.	1
+Aínda que non me divertiu, podo entender que é un bo espectáculo	1
+Aínda que non me gustou a primeira vez, decidín darlle outra oportunidade.	0
+Aínda que non o recomendaría a todos, pode ser útil para algúns.	1
+Aínda que non sexa perfecto, o resultado é aceptable.	1
+Aínda que non tiña moitas expectativas, a comida estaba sorprendentemente boa.	1
+Aínda que os traballadores fan ben o seu traballo, o servizo é pésimo	2
+Aínda que se solucione rápido, é unha putada	2
+As árbores perden as follas no outono.	0
+As aves migraram para climas mais quentes no outono passado.	0
+As crianzas xogan no parque.	0
+As estrelas brillaron no ceo limpo da noite.	0
+As festas do ano pasado foron moi divertidas.	1
+As flores do xardín estiveron preciosas este ano.	1
+As flores floreceron cedo nesta primavera.	0
+As fogueiras iluminaron a praia na noite de San Xoán.	0
+As montañas estiveron cubertas de neve durante meses.	0
+As nosas expectativas non se cumpriron, non obstante, seguimos optimistas.	1
+As nubes cubriron o ceo na tarde do sábado.	0
+Atopamos unha solución temporánea para este problema, porén necesitamos unha solución definitiva.	2
+Camiñei polo parque cando comezou a chover.	2
+Claro, déixame só levantarme ás 5 da mañá para ti.	2
+Claro, porque a espera na cola é a miña parte favorita do día.	2
+Claro, porque a fila na oficina de correos é o mellor lugar para coñecer xente.	2
+Claro, porque arranxar o coche cada semana é o meu soño feito realidade.	2
+Claro, porque as películas sen subtítulos son máis emocionantes.	2
+Claro, porque esperar na sala de espera é súper divertido.	2
+Claro, porque estudar para os exames é a mellor parte da vida.	2
+Claro, porque facer a cama todas as mañás é súper divertido.	2
+Claro, porque facer a declaración da renda é súper emocionante.	2
+Claro, porque facer zapping na tele é a mellor maneira de pasar a tarde.	2
+Claro, porque lavar o coche cada semana é o meu pasatempo favorito.	2
+Claro, porque levar o coche ao taller é a mellor parte do día.	2
+Claro, porque limpar a neve da entrada é o mellor exercicio.	2
+Claro, porque madrugar os domingos é xenial.	2
+Claro, porque o tráfico é o meu lugar feliz.	2
+Claro, porque os atasques no tráfico son relaxantes.	2
+Claro, porque os días de exames son os mellores.	2
+Claro, porque os días sen wifi son os mellores.	2
+Claro, porque os domingos pola tarde non hai nada mellor que lavar roupa.	2
+Claro, porque os voos atrasados son a mellor parte de viaxar.	2
+Claro, porque pasar toda a tarde na oficina é tan emocionante.	2
+Comín un bocadillo para o xantar de onte.	0
+Conseguíu aprobar o exame, mesmo así non estudara moito.	1
+Decidimos saír de excursión, a pesar do mal tempo.	0
+É barato, aínda que a calidade non sexa a mellor	1
+É crucial para a nosa empresa, se ben é difícil de comprender.	1
+É esencial para o éxito do noso proxecto, se ben é difícil de comprender.	1
+É insoportable ter tanta saúde.	1
+É insoportable ter tanta sorte.	1
+É insoportable ter tantas cousas boas.	1
+É insoportable ter tanto amor.	1
+É insoportable ter tanto éxito.	1
+É tan bo servizo que chegou 3 horas tarde	2
+É terrible non ter estrés.	1
+É terrible non ter preocupacións.	1
+É terrible non ter problemas.	1
+É terrible ter que elixir entre tantas opcións deliciosas.	1
+É terrible ter tantas vacacións.	1
+É un adefesio	2
+É unha cámara de fotos excelente, aínda que o prezo sexa alto.	1
+El escribiu un libro interesante.	1
+El fala varias linguas.	0
+El monta en bicicleta ata ao traballo.	0
+El traballa como profesor.	0
+Ela corre todas as mañás.	0
+Ela estuda na biblioteca.	0
+Ela estuda na universidade.	0
+Ela estudou naquela escola durante três anos.	0
+Ela pinta cadros bonitos.	1
+Ela visita aos avós con frecuencia.	0
+Elas bailan con graza.	1
+Elas estudan música clásica.	0
+Ele escreveu um livro sobre história local.	0
+Eles caminharam até à praia no sábado passado.	0
+Eles camiñan todos os días.	0
+Eles corren no parque todos os días.	0
+Eles nadan na piscina.	0
+Eles tocan guitarra eléctrica.	0
+Eles visitan museos regularmente.	0
+Encántame cando a xente cambia de tema constantemente.	2
+Encántame cando a xente cambia os plans á última hora.	2
+Encántame cando a xente che late na boca.	2
+Encántame cando a xente decide que o meu tempo non é importante.	2
+Encántame cando a xente fala durante as películas, é xenial.	2
+Encántame cando a xente fala moi alto en lugares públicos.	2
+Encántame cando a xente me interrompe, faime sentir importante.	2
+Encántame cando a xente non deixa propina.	2
+Encántame cando a xente non escoita o que digo.	2
+Encántame cando a xente non respecta o espazo persoal.	2
+Encántame cando a xente responde con monosílabos.	2
+Encántame cando me din como facer o meu traballo.	2
+Encántame cando o meu café se enfría mentres estou ocupado.	2
+Encántame cando o meu móbil se queda sen cobertura xusto cando o necesito.	2
+Encántame cando o meu teléfono se queda sen batería xusto cando o necesito.	2
+Encantoume a falta de hixiene	2
+Escoitei música clásica durante a tarde enteira.	0
+Ese tipo é un paleto	2
+Estou esgotada de tanto rir.	1
+Estou tan emocionado por pagar impostos este ano.	2
+Estou tan emocionado por ter que chamar ao servizo de atención ao cliente por quinta vez este mes.	2
+Estou tan emocionado por ter que pasar toda a noite en vixilancia cando o meu fillo está enfermo.	2
+Falei coa profesora sobre o proxecto final.	0
+Gustaríame poñer 0 estrelas, pero non se pode	2
+Gústoume tanto que puxen unha folla de reclamacións	2
+Iso non implica que debamos desistir agora, pero require máis esforzo.	2
+Logo xa non estaba afónico, pero tiven unha tos horrible e dolíame un montón tragar	2
+Logramos superalo, porén, foi máis complicado do que pensabamos.	2
+Melloramos, non obstante, hai moito por optimizar.	2
+Menos mal que estou de vacacións, non sei que faría se estivese descansando.	1
+Merece todo o hate que recibiu	2
+Mesmo que fose unha experiencia enriquecedora, non o volvería a facer	2
+Mesmo que non é o mellor hotel, se queres aforrar é unha boa opción.	1
+Na segunda-feira, o mar estava tranquilo.	0
+Non aguanto máis esta comida tan deliciosa.	1
+Non baixamos os brazos na nosa loita, a pesar de todos os desafíos.	1
+Non diría que é imposible de facer.	1
+Non é a miña primeira escolha, pero non me arrepinto da decisión.	1
+Non é moderno, pero é moi cómodo.	1
+Non é moi popular, pero os que o coñecen valorano moi ben.	1
+Non é o ideal, pero é o que temos dispoñible neste momento.	2
+Non é o mellor momento, pero hai que facelo agora.	0
+Non é tan bo como din	2
+Non é tan complicado como pensaba, pero require atención.	0
+Non é tan diferente do que esperaba.	0
+Non é tan importante como parece.	2
+Non é tan incómodo como eu temía.	1
+Non é tan popular como os outros, pero ten os seus seguidores fieis.	1
+Non é unha solución perfecta, pero é o mellor que temos por agora.	1
+Non entendo como pode ser tan boa persona	1
+Non estou no tren	0
+Non foi suficiente para mercar o que precisamos, mais tiña os cartos preparados.	2
+Non me parece que sexa tan raro	0
+Non me parece unha mala idea, de feito, creo que pode funcionar.	1
+Non me parece unha mala idea.	1
+Non me parece unha mala opción.	1
+Non me pareceu mal o que fixo, ao contrario	2
+Non nos impide buscar solucións alternativas viables, pero debemos actuar con rapidez.	2
+Non nos rendemos ante as dificultades, aínda así, seguiremos loitando.	1
+Non penso que se poda facer peor	2
+Non penso que sexa tan aburrido como algúns din.	1
+Non podo coa felicidade de estar cos meus seres queridos.	1
+Non podo coa presión de ser tan afortunada.	1
+Non podo coa sorte de estar rodeada de xente tan marabillosa.	1
+Non podo esperar para facer unha viaxe de cinco horas en autobús.	2
+Non podo esperar para que volva o inverno e a miña factura de calefacción sexa astronómica.	2
+Non podo esperar para repetir a experiencia de pasar dúas horas no tráfico.	2
+Non podo expresar a miña emoción por ter que volver ao traballo no luns.	2
+Non podo máis coa sorte que teño de traballar en festivo.	2
+Non podo máis con este descanso tan necesario.	1
+Non podo máis con tanta felicidade.	1
+Non podo máis con tanto cariño.	1
+Non podo máis con tanto éxito.	1
+Non puido faltar ao traballo, aínda así estaba enfermo.	2
+Non sei como podo sobrevivir a estas vacacións tan perfectas.	1
+Non sei como podo sobrevivir a tanta xenerosidade.	1
+Non sei como podo sobrevivir sen traballar.	1
+Non sei como podo soportar estas vistas tan fermosas.	1
+Non sei como podo soportar tantas boas noticias.	1
+Non sei como podo soportar tantas risas.	1
+Non sei como podo soportar tanto amor.	1
+Non sei como podo soportar tanto apoio.	1
+Non sei como unha plataforma tan grande pode arruinar a película facendo spoilers	2
+Non soporto máis esta alegría.	1
+Non soporto máis estas vacacións de luxo.	1
+Non soporto máis estes agasallos.	1
+Non te preocupes, non me importa para nada que chegas tarde sempre.	2
+Non te preocupes, non me importa para nada que uses o meu ordenador.	2
+Non teñen bo servizo, pero o peor de todo é o produto	2
+Non, non estou para nada canso, podería correr unha maratón agora mesmo.	2
+Non, non me molesta para nada que deixes a luz acesa todo o día.	2
+Non, non me molesta para nada que deixes a porta aberta.	2
+Non, non me molesta para nada que utilices as miñas cousas sen preguntar.	2
+Non, non me molesta que deixes todo tirado, disfruto recolléndoo.	2
+Non, non te preocupes, a túa chamada non me interrompeu para nada.	2
+Non, non te preocupes, traballar toda a fin de semana é o que máis me gusta.	2
+Nós comemos xuntos os sábados.	0
+Nós gustamos de ler.	1
+Nós practicamos deporte todos os días.	0
+Nós vemos películas de comedia.	0
+Nós viaxamos en avión.	0
+Nós visitámos um museu interessante na cidade.	1
+Nunca vin nada mellor	1
+O alcalde inaugurou un novo parque na cidade.	0
+O almorzo é a miña comida favorita.	1
+O bisavó contou contos da súa mocidade.	0
+O café da mañá estivo moi bo esta mañá.	1
+O clima non é ideal, pero a paisaxe é impresionante.	1
+O concerto de música clásica emocionou ao público.	1
+O conserxe era un gruñón	2
+O custo é elevado, pero a calidade xustifica o prezo.	1
+O equipo de fútbol gañou o partido contra os rivais.	1
+O equipo non é o máis rápido, pero é fiable.	1
+O financiamento inicial non foi suficiente para iniciar o proxecto, mais tiñamos outras opcións.	0
+O gato durmiu toda a tarde na cadeira.	0
+O hotel está impecable, mesmo que se nota que é de hai uns anos	1
+O inverno trae neve para a cidade.	0
+O luns pasei pola rúa sen atopar a ninguén.	0
+O mar está calmo esta mañá.	0
+O meu irmán chegou tarde á festa de aniversario.	2
+O nadador bateu o récord nacional na competición.	1
+O outono pinta as follas de variadas cores.	0
+O proceso non é sinxelo, pero co tempo aprendemos a manexalo.	0
+O produto é barato, aínda que a calidade deixa moito que desexar	1
+O rendemento non é excelente, pero suficiente para as nosas necesidades.	1
+O servizo ao cliente non é excelente, pero resolveron o problema.	1
+O servizo de entrega é lento, pero os produtos chegan en bo estado.	1
+O sol brila forte hoxe.	0
+O sol brilou todo o día onte.	0
+O sol está a brilhar no céu.	0
+O sol quenta a pel.	0
+O tamaño non é o ideal, pero é suficiente para nós.	2
+O tempo de espera é longo, pero a atención recibida é boa.	1
+O teu comentatio foi demasiado despiadado	2
+O tipo era moi soez	2
+O vento sopra suavemente.	0
+Oh, xenial, outra reunión que podería ter sido un correo electrónico.	2
+Onte, fomos ao cinema ver um filme.	0
+Os atletas competiron nos Xogos Olímpicos de verán.	0
+Os cans xogan no xardín.	0
+Os estudantes realizaron un proxecto en equipo.	0
+Os gatos dormen moito.	0
+Os libros están ordenados na estante.	0
+Os libros que lin este ano foron moi interesantes.	1
+Os músicos ensaiaron toda a semana para o concerto.	0
+Os nenos xogaron coas súas mascotas no xardín.	0
+Os nenos xogaron na praza todo o verán.	0
+Os páxaros cantaron ao amencer.	0
+Os paxaros migraron ao comezar o inverno.	0
+Os paxaros voan no ceo.	0
+Os pescadores capturaron moitos peixes no río.	1
+Os recursos asignados non foron suficientes para o proxecto, mais non se podía prever.	2
+Os veciños fixeron unha festa sorpresa para a nova familia.	1
+Os voluntarios limparon a praia o pasado sábado.	0
+Pareceume moi divertido ter que xogar a descubrir que pratos estaban limpos	2
+Pareceume tan bo sitio que non vou volver nunca	2
+Pásame o tiktok coma se fose un vídeo	0
+Pensei que nada podía ser mellor despois de ver unha rata na cama	2
+Pintei un cadro para a exposición da escola.	0
+Podemos cenar fora, ainda que sexa unha hamburguesa dun euro.	0
+Porque si, necesitaba exactamente o teu consello non solicitado.	2
+Que cansazo de tanto relax.	1
+Que fastidio de tantas boas noticias.	1
+Que fastidio de tanto apoio.	1
+Que fastidio ter tanto tempo para ler.	1
+Que incómodo é estar relaxado ao sol.	1
+Que incómodo é ter que tomar decisións como qué coctel pedir.	1
+Que mal o estou pasando na praia!	1
+Que malo é ter unha familia tan marabillosa.	1
+Que malo é ter unha familia tan unida.	1
+Que malo é ter unha vida tan marabillosa.	1
+Que malo é ter unha vida tan perfecta.	1
+Se ben ás veces fíxoseme un pouco pesado, diría que podo recomendarvolo	1
+Se ben non é caro, non volvería aquí	2
+Se ten muitos likes é porque os merece	1
+Seguimos adiante co noso plan, de calquera forma, non é sinxelo.	2
+Seguimos comprometidos co noso obxectivo, a pesar dos obstáculos.	1
+Seguimos comprometidos coa nosa misión, a pesar de todos os desafíos.	1
+Seguro que a wifi lenta é o mellor que nos puido pasar.	2
+Seguro que aos cans lles encanta cando intentamos vestilos.	2
+Seguro que aos gatos lles encanta cando intentamos bicalos.	2
+Seguro que as chamadas de telemarketing son sempre benvidas.	2
+Seguro que as dietas son súper fáciles de seguir.	2
+Seguro que as esperas no médico son relaxantes.	2
+Seguro que che encanta a choiva todos os días.	2
+Seguro que me encanta estar ao teléfono coa compañía eléctrica.	2
+Seguro que o tráfico durante as vacacións é parte da diversión.	2
+Seguro que os bebés choran porque son felices.	2
+Seguro que os coches que non usan os intermitentes teñen poderes telepáticos.	2
+Seguro que os días de choiva intensa son perfectos para saír.	2
+Seguro que os días de moita calor son o mellor do verán.	2
+Seguro que os días de moita calor son os mellores para traballar.	2
+Seguro que os días de moita humidade son os mellores para o pelo.	2
+Seguro que os días de moito frío son perfectos para saír.	2
+Seguro que os días de vento forte son os mellores para pasear.	2
+Seguro que os días de vento son os mellores para levar sombreiro.	0
+Seguro que os veciños ruidosos son os mellores.	2
+Sempre hai cousas que facer ainda que non pareza.	1
+Si, porque as avarías do ordenador son sempre a mellor sorpresa.	2
+Si, porque as chamadas automáticas son sempre interesantes.	2
+Si, porque definitivamente os luns pola mañá son o mellor momento da semana.	2
+Si, porque facer a compra en hora punta é a mellor experiencia.	2
+Si, porque facer a compra os domingos pola tarde é unha experiencia marabillosa.	2
+Si, porque facer cola na caixa rápida é rapidísimo.	2
+Si, porque facer dieta é o meu pasatempo favorito.	2
+Si, porque o ruído da construción ao lado é a mellor banda sonora.	2
+Si, porque os xefes que micromanaxan son os mellores.	2
+Si, porque saír á rúa sen paraugas é super divertido.	2
+Tardan muito en atenderte, pero cómese moi ben	1
+Temos unha comprensión máis clara dos nosos obxectivos, á diferenza de antes.	1
+Todo o hype que fixeron foi en vano	2
+Uff, estou farta de que todo vaia tan ben.	1
+Uff, estou farta de tanta diversión.	1
+Uff, estou farta de tanto amor.	1
+Uff, que estrés de non ter estrés.	1
+Uff, que estrés de non ter problemas.	1
+Uff, que estrés de ser tan feliz.	1
+Vai feito un pordiosero	2
+Vaia, claro que cho vou facer, non te preocupes, teño todo o tempo do mundo.	2
+Vaia, outra factura de teléfono, que emocionante.	2
+Vaia, outra factura, que sorpresa tan agradable.	2
+Vaia, outra reunión que podería ser un correo, que sorte.	2
+Vaia, outra vez a comida queimouse, que sorte.	2
+Vaia, outra vez o ascensor avariado, que emocionante.	2
+Vaia, outra vez o ascensor cheo, que sorte.	2
+Vaia, outra vez o microondas non funciona, que emocionante.	2
+Vaia, outra vez o tren atrasado, que novidade.	2
+Vaia, outro correo de spam, que emocionante.	2
+Vaia, outro erro na factura, que sorte.	2
+Vaia, outro luns, que emocionante.	2
+Vaia, que ben, outra reunión a primeira hora da mañá.	2
+Vaia, que ben, outro día sen tempo libre.	2
+Vaia, que ben, un correo do banco, seguro que son boas noticias.	2
+Viaxamos en tren ao longo da costa.	0
+Visitamos o castelo antigo durante as vacacións.	0
+Visitei aos meus amigos no mes pasado.	0
+Volvería, aínda que poden mellorar o servizo	1
+Vós cantades moi ben.	1
+Vós escribides poesía xuntos.	0
+Vós leedes xornais todas as mañás.	0
+Vós participastes num evento cultural na quinta-feira.	0
+Vós tocais instrumentos musicais.	0
+Vós viaxades nas férias de verán.	0
+Xa non podo esperar para volver a ese maravilloso restaurante que tarda unha eternidade en servir a comida.	2
+Que día tan fermoso para disfrutar do sol e da brisa do mar! 😊 #VeránGalego #Feliz	1
+As rías galegas son un paraíso natural. Sentir o cheiro do mar e observar a vida mariña é algo único. 🌊 #NaturezaGalega	1
+Hoxe é o día perfecto para gozar dun bo libro na nosa fermosa Praia das Catedrais. 📖 #Relax	1
+A gastronomía galega é un verdadeiro deleite para os sentidos. Non hai nada mellor que un bo pulpo á feira! 🐙 #SaboresGalegos	1
+A nosa cultura e tradicións fan de Galicia un lugar especial. Estou orgulloso/a de ser galego/a! 🌍 #GaliciaMáxica	1
+O entorno natural de Compostela é incrible. Pasear polos seus parques é a mellor terapia. 🌳 #SantiagoDeCompostela	1
+Galicia ten unha riqueza arquitectónica impresionante. A Catedral de Santiago é unha marabilla que todos deberíamos visitar. ⛪ #PatrimonioGalego	1
+Os festivais de música galegos son unha experiencia única. A enerxía e a alegría que se vive é incrible. 🎶 #MúsicaGalega	1
+A hospitalidade dos galegos é inigualable. Sempre te sentes como en casa. 👪 #GenteMarabillosa	1
+Estou agradecido/a por vivir nun lugar tan especial como Galicia. Non cambiaría isto por nada! 💙 #OrgulloGalego	1
+A choiva non para e a melancolía instálase nos nosos días. ☔ #TempoGris	2
+O tráfico nas rúas de Vigo é un pesadelo. Estou harto/a de atascos interminables. 🚗 #EstresTráfico	2
+As obras eternas na estrada de Santiago deixan a todos desesperados. 🚧 #ProblemasInfinitos	2
+Non hai nada peor que perder o autobús por uns minutos. Agora toca esperar unha eternidade. 🚌 #Impuntualidade	2
+A contaminación nas cidades galegas é preocupante. Precisamos medidas urxentes para mellorar a calidade do aire. 🏭 #ContaminaciónAmbiental	2
+O custo de vida en Galicia está a subir sen control. Cada día é máis difícil facer finanzas. 💸 #EconomíaComplicada	2
+Os cortes de luz son constantes na miña zona. Non hai maneira de evitar a escuridade. 🕯️ #ProblemasEléctricos	2
+O servizo de transporte público non mellora. Os trens e autobuses chegan tarde e hai cancelacións frecuentes. 🚆 #TransporteDeficiente	2
+A falta de oportunidades laborais en Galicia é frustrante. Moita xente cualificada busca traballo sen éxito. 🤷‍♂️ #Desemprego	2
+A burocracia en Galicia fai que calquera trámite sexa un verdadeiro quebracabezas. 😤 #PapeleosInfinitos	2
+Galicia está situada no noroeste da Península Ibérica.	0
+O clima galego é oceánico, con invernos suaves e veráns frescos.	0
+A economía de Galicia ten sectores como pesca, agricultura e turismo.	0
+A natureza en Galicia é diversa, con montañas, ríos e costa atlántica.	0
+A lingua galega é recoñecida como oficial en Galicia xunto co castelán.	0
+A arquitectura das cidades galegas mestura estilos antigos e modernos.	0
+Non me gusta este libro.	2
+Nunca vou a ese lugar.	2
+Non podo atopar as miñas chaves.	2
+Non estou de acordo contigo.	2
+Non quero ir hoxe.	2
+Este café está moi frío.	2
+Non rematei o traballo a tempo.	2
+Non me sinto ben hoxe.	2
+Non temos tempo suficiente.	2
+Ninguén me avisou da reunión.	2
+Non me interesa ese tema.	2
+Este coche non funciona ben.	2
+Non podo asistir á festa.	2
+Non hai ningunha solución.	2
+Non me gusta a comida picante.	2
+Non teño diñeiro suficiente.	2
+Este lugar non é seguro.	2
+Hoxe é un día fermoso.	1
+Estou moi contento co resultado.	1
+Facemos un bo equipo.	1
+Gustaríame aprender algo novo.	1
+A túa axuda é inestimable.	1
+Parabéns polo teu logro!	1
+Encántame este proxecto.	1
+Tes un gran talento.	1
+Todo saíu mellor do que esperaba.	1
+Estou orgulloso de ti.	1
+Hoxe sentinme moi produtivo.	1
+Tes un sorriso marabilloso.	1
+Que alegría verte!	1
+Fixeches un excelente traballo.	1
+Este lugar é marabilloso.	1
+Grazas pola túa amabilidade.	1
+A túa enerxía é contaxiosa.	1
+O teu esforzo valeu a pena.	1
+Encántame pasar tempo contigo.	1
+Estou agradecido polas túas palabras.	1
+Non viría á festa se soubese que el está alí.	2
+Se tivese máis tempo, non faría isto de présa.	2
+Se soubese a resposta, non estaría preguntando.	2
+Non comería isto se soubese que está pasado.	2
+Se me sentise mellor, non cancelaría a reunión.	2
+Non aceptaría o traballo se fose ti.	2
+Se non fose pola chuvia, non me quedaría na casa.	2
+Non tería problemas se seguise as instrucións.	2
+Non o faría se estivese no teu lugar.	2
+Se tivese diñeiro, non pediría prestado.	2
+Non me preocuparía se fose verdade.	2
+Se non fose polo ruído, podería durmir.	2
+Non me importaría se non me afectase.	2
+Se tivese opcións, non elixiría esta.	2
+Non me queixaría se soubese a solución.	2
+Non me sentiría así se non fose pola situación.	2
+Se non fose tarde, non me preocuparía tanto.	2
+Vou facelo mañá.	0
+Cando teña tempo, fareino.	0
+A primeira oportunidade que teña, vou facelo.	0
+Cando volva a casa, ocuparéime diso.	0
+Logo de xantar, poñereime a traballar niso.	0
+Cando remate este proxecto, comezarei con iso.	0
+A primeira hora da mañá, vou comezar.	0
+Cando teñas un momento libre, axúdame con isto.	0
+Cando teño o material necesario, comezo a obra.	0
+Logo de reunir toda a información, empezarei.	0
+Cando me sinta mellor, farei o necesario.	2
+Cando a pandemia remate, planificarei a viaxe.	0
+Cando chegue a primavera, comezarei a plantar.	0
+Cando remate esta tarefa, ocuparéime diso.	0
+Cando teñas a oportunidade, axúdame.	0
+Cando voltes, avísame.	0
+Cando voltes a casa, prepara a cea.	0
+Cando volvas, axúdame.	0
+Cando me necesites, chámame.	0
+Cando teñas tempo, chámanos.	0
+Cando o fagas, chama.	0
+Cando volvas, chama.	0
+Cando o fagas, axúdame.	0
+Que día tan bonito! ☀️	1
+Estou agradecida polas pequenas cousas da vida.	1
+Cada obstáculo é unha oportunidade para crecer.	1
+A vida é unha aventura emocionante.	1
+A mellora persoal é unha viaxe constante.	1
+O amor e a bondade son a clave da felicidade.	1
+Sempre hai razóns para sorrir.	1
+Estou rodeado de xente marabillosa.	1
+Hoxe é un día perfecto para comezar algo novo.	1
+Sinto unha paz interior incrible.	1
+Os meus soños están máis preto de realizarse ca nunca.	1
+Agradezo a saúde e o benestar que teño.	1
+Estou orgulloso/a do meu progreso.	1
+As pequenas victorias fan grandes diferenzas.	1
+Estou aprendendo e crecendo en cada momento.	1
+A felicidade está nas pequenas cousas da vida.	1
+Estou moi agradecido/a pola xente que me rodea.	1
+Cada día é unha nova oportunidade para ser mellor.	1
+A beleza da natureza inspira a miña alma.	1
+Aprendo do pasado e miro cara ao futuro con esperanza.	1
+Estou emocionada polo que o futuro me reserva.	1
+A vida é unha aventura que merece ser vivida ao máximo.	1
+Estou a facer progresos significativos nos meus obxectivos.	1
+A miña determinación é máis forte que calquera adversidade.	1
+O éxito agárdame ao final deste camiño.	1
+A xenerosidade trae paz e satisfacción ao corazón.	1
+Estou a crear lembranzas inesquecibles cada día.	1
+Estou a aprender a ser máis paciente e compasivo.	1
+Estou a construír as bases dun futuro brillante.	1
+Agradezo o apoio incondicional dos meus seres queridos.	1
+A vida está chea de sorpresas marabillosas.	1
+As miñas accións teñen o poder de facer a diferenza no mundo.	1
+A xente positiva e entusiasta atráeme.	1
+A miña determinación é a chave para alcanzar os meus soños.	1
+Estou a aprender a valorar cada momento.	1
+As oportunidades están ao meu redor, só teño que aproveitalas.	1
+O amor e a compaixón fan do mundo un lugar mellor.	1
+O traballo duro e a persistencia fan realidade os soños.	1
+Estou a crecer e a evolucionar constantemente.	1
+Cada día é unha nova páxina no libro da miña vida.	1
+Estou a disfrutar do proceso de mellora persoal.	1
+Agradezo a beleza das relacións humanas na miña vida.	1
+A paciencia e a perseveranza son as miñas aliadas.	1
+Estou a vivir a vida ao máximo, sen remordementos.	1
+Estou a aprender a ser máis resiliente ante as adversidades.	1
+A xente positiva e inspiradora enriquece a miña vida.	1
+Agradezo as oportunidades de crecemento persoal.	1
+Estou a abrazar os cambios co corazón aberto.	1
+A vida está chea de sorpresas e descubrimentos.	1
+O presente é unha dádiva; por iso chamámoslle "presente".	1
+Que día tan gris e aburrido... ☁️😔	2
+Estou cansada de todo. 😞💤	2
+Non vexo a hora de que acabe este día. 🕒😒	2
+As cousas nunca saen como as planifico. 🤦‍♂️🚫	2
+Sinto que todo está en contra miña hoxe. 🌧️😩	2
+Estou harto de tanta complicación. 🤯👎	2
+Non consigo ver a luz ao final do túnel. 🚷😕	2
+A vida é unha sucesión de decepcións. 💔😢	2
+Sinto que non estou a avanzar en nada. 🚶‍♂️🔚	2
+Estou completamente esgotado/a. 😴💢	2
+Non teño motivación nin enerxía para facer nada. 🚫😞	2
+Os problemas parecen non ter fin. 🔄🤦‍♀️	2
+Non hai nada que me faga feliz ultimamente. 😔🚫	2
+Sinto que todos me abandonan cando máis os necesito. 👥😞	2
+A frustración está a consumirme. 😤🔥	2
+Non consigo atopar o meu camiño na vida. 🛤️🔍	2
+Estou atrapado/a nunha rutina sen sentido. 🔄😞	2
+Os meus esforzos parecen ser en van. 💪🚫	2
+A vida é unha loita constante. 🥊😓	2
+A ansiedade non me deixa en paz. 😟🌀	2
+Sinto que non vallo nada. 🚫😔	2
+Nada sae como esperaba. 🤷‍♂️🚫	2
+Estou farto de ter que loitar todo o tempo. 😓👎	2
+Non hai saída para esta situación. 🚫🔚	2
+Sinto unha tristeza profunda. 😢💔	2
+Todo o que toco parece desmoronarse. 🖐️🏚️	2
+A miña confianza está por terra. 🤦‍♀️😞	2
+Non hai consolo nas palabras de ánimo. 🙅‍♂️🙁	2
+Non hai nada que me motive a seguir adiante. 🚫😔	2
+Sinto un baleiro emocional inmenso. 🕳️😔	2
+O futuro parece incerto e desalentador. 🤔🔮	2
+A vida non me dá un respiro. 🌪️😩	2
+Estou enfrascado/a nunha espiral de negatividade. 🔄😞	2
+Non hai escape desta realidade desagradable. 🚫😕	2
+Non me sinto capaz de facer nada ben. 🚫💪	2
+Non hai luz ao final deste túnel escuro. 🚷🌑	2
+Sinto que non pertenzo en ningún lugar. 🏚️😔	2
+Non hai esperanza para mellorar as cousas. 🚫😞	2
+Sinto que non teño control sobre a miña vida. 🎮🤷‍♂️	2
+A preocupación non me deixa vivir en paz. 😟😓	2
+A soidade está a consumirme. 😔👤	2
+A desesperanza é todo o que sinto agora. 😞🚫	2
+Nada pode axudarme a saír deste pozo. 🆘🕳️	2
+Estou rodeado/a de negatividade por todas partes. 🔄😒	2
+A tristeza é a miña única compañeira hoxe. 😢😔	2
+A vida é unha sucesión de decepcións e desilusións. 💔😞	2
+Non hai respostas para os meus problemas. ❓🚫	2
+Sinto que todo o meu esforzo foi en balde. 💔🚫	2
+Non hai alivio para o meu corazón ferido. 💔😞	2
+A vida non é máis que unha carga pesada para min. 🌍😔	2
+Científica revolucionaria abre novos camiños na medicina	1
+Estudante local vence concurso internacional de matemáticas	1
+Nova técnica agrícola incrementa a produción sen impacto ambiental	1
+Iniciativa comunitaria recolle fondos récord para os sen teito	1
+Artista local expón na galería máis prestixiosa da cidade	1
+Escola primaria local recibe recoñecemento por innovación educativa	1
+Mellora récord nos índices de satisfacción dos pacientes no hospital municipal	1
+Empresa de tecnoloxía local crea empregos e expande operacións globalmente	1
+Comunidade celebra baixas históricas de criminalidade	1
+Joven local recibe beca integral para estudar no estranxeiro	1
+Nova lei local promove o uso de enerxías renovables	1
+Novo centro cultural inaugurado para enriquecer a vida comunitaria	1
+Parque ecolóxico rehabilitado para preservar a biodiversidade	1
+Empresaria local gaña premio nacional pola súa innovación en negocios	1
+Teatro local produce obra aclamada por críticos internacionais	1
+Atleta local califica para os Xogos Olímpicos de verán	1
+Investimento récord en infraestruturas públicas para mellorar a mobilidade	1
+Mellora significativa nos resultados educativos das escolas públicas	1
+Parque tecnolóxico local atende ás necesidades de startups innovadoras	1
+Novo programa de voluntariado rexistra aumento récord de participación	1
+Mellora na calidade do aire debido ás novas políticas ambientais	1
+Comerciante local recibe recoñecemento por servizo ao cliente excepcional	1
+Mellora na accesibilidade para persoas con discapacidade na cidade	1
+Nova biblioteca pública atrae a miles de lectores na súa inauguración	1
+Iniciativa de reciclaxe local reduce os residuos plásticos en un 50%	1
+Escola de música local produce talentos recoñecidos internacionalmente	1
+Centro de saúda local introduce novos programas de benestar para empregados	1
+Estudio local revela avances prometedores no tratamento de enfermidades raras	1
+Iniciativa de apoio a pequenas empresas impulsa o emprendemento na comunidade	1
+Novo parque acuático abre as súas portas para o disfrute das familias	1
+Novo centro deportivo ofrece instalacións de última xeración para a comunidade	1
+Mellora na seguridade viaria reduce accidentes nun 30% na rexión	1
+Festival cultural local promove a diversidade cultural e artística	1
+Novo programa educativo promove a igualdade de oportunidades	1
+Empresario local doa millóns para a investigación contra o cancro	1
+Iniciativa de alimentación saudable nas escolas promove hábitos positivos	1
+Parque natural local protexe hábitats únicos e especies en perigo	1
+Comunidade local apoia o comercio de produtos orgánicos e sustentables	1
+Aumento na participación cidadá en decisións locais marca un novo récord	1
+Programa de intercambio estudantil local fomenta a comprensión global	1
+Novo sistema de transporte público facilita a mobilidade urbana	1
+Festival de cine local destaca por promover o talento cinematográfico rexional	1
+Iniciativa de arte urbana transforma espazos públicos na cidade	1
+Restaurante local recoñecido por promover a gastronomía tradicional	1
+Campeonato deportivo local reúne atletas de todo o país	1
+Estudo científico local contribúe ao entendemento do cambio climático	1
+Mellora nas instalacións deportivas para fomentar o deporte entre a mocidade	1
+Iniciativa de conservación mariña protexe os océanos e as súas especies	1
+Novo centro de atención para persoas maiores ofrece servizos integrais	1
+Mellora na infraestrutura cultural enriquece a vida comunitaria	1
+Bo día.	1
+Boa tarde.	1
+Boa noite.	1
+Ola, ¿como estás?	0
+¿Que tal?	0
+¿Como che vai?	0
+Moitas grazas.	1
+De nada.	0
+Encantado de coñecerte.	1
+¿Cal é o teu nome?	0
+O meu nome é Carlos	0
+¿De onde es?	0
+Son de Galicia.	0
+¿Cantos anos tes?	0
+Teño vinte anos.	0
+¿Que fas?	0
+Son estudante.	0
+Traballo nunha empresa.	0
+¿Tes irmáns?	0
+Teño dous irmáns.	0
+Gústame moito ler.	1
+Gústame a música.	1
+Non me gusta a televisión.	2
+¿Cal é o teu deporte favorito?	0
+Encántame o fútbol.	1
+Non practico deportes.	0
+¿Que fas no teu tempo libre?	0
+Adoro viaxar.	1
+Gústame cociñar.	1
+¿Onde vives?	0
+Vivo en Santiago de Compostela.	0
+¿Que hora é?	0
+Son as tres da tarde.	0
+¿Podes axudarme?	0
+Claro que si.	1
+Non podo agora, desculpa.	2
+¿Onde está o baño?	0
+Está á esquerda.	0
+¿Tes mascotas?	0
+Teño un can.	0
+Non teño mascotas.	0
+¿Que che parece?	0
+Está moi ben.	1
+Non me gusta.	2
+¿Podes repetilo?	0
+Non entendo.	2
+¿Falades galego?	0
+Falo un pouco.	0
+Non falo galego.	0
+¿Podes falar máis amodo?	0
+¡Por suposto!	1
+¿Que queres beber?	0
+Quero un café, por favor.	0
+Gústame o té.	1
+Non bebo alcol.	0
+¿Onde está a parada do bus?	0
+Está alí diante.	0
+¿Canto custa?	0
+¿Aceptades tarxeta?	0
+So aceptamos efectivo.	0
+¿Podo probar isto?	0
+Por suposto.	1
+Non se pode.	2
+¿Cando abrides?	0
+Abrimos ás nove.	0
+Pechamos ás oito.	0
+¿Onde podo mercar isto?	0
+Na tenda da esquina.	0
+Está lonxe.	2
+¿Como che atopas?	0
+Estou canso.	2
+Síntome mal.	2
+¿Precisas axuda?	0
+Estou ben, grazas.	1
+Non sei.	2
+Penso que si.	1
+Pode ser.	0
+Non estou seguro.	0
+¿Que opinas?	0
+É moi interesante.	1
+Non estou de acordo.	2
+¡Que bonito!	1
+É precioso.	1
+¿Onde imos?	0
+Vamos á praia.	0
+Quero quedar na casa.	0
+¿Que hora é agora?	0
+Son as sete da mañá.	0
+¿Tes fame?	0
+Teño moita fame.	2
+Non teño fame.	1
+¿Tes sede?	0
+Non teño sede.	1
+¿Como foi o teu día?	0
+Foi un bo día.	1
+Foi moi duro.	2
+Que bo tempo está hoxe! ☀️	1
+Adoro pasar tempo coa miña familia. ❤️	1
+Estou moi agradecido pola túa axuda. 🙏	1
+Que ben que teño vacacións esta semana.	1
+Hoxe é un día perfecto para saír de paseo.	1
+O meu equipo gañou o partido, estou feliz!	1
+É un pracer traballar contigo. 😊	1
+Gústame moito a túa nova camiseta!	1
+A comida estaba deliciosa, parabéns ao chef.	1
+Estou emocionado polas novas oportunidades que se presentan.	1
+A vida é unha aventura, hai que vivela ao máximo!	1
+Aprendín algo novo hoxe, estou contente.	1
+Non hai nada mellor que escoitar música relaxante ao final do día.	1
+O sol sempre sae despois da choiva. 🌈	1
+É marabilloso ver como os nenos xogan xuntos sen importarlles nada máis.	1
+Ás veces, os pequenos xestos fan un gran impacto. 💕	1
+Sinto que estou a progresar no meu traballo, é gratificante.	1
+A natureza é tan impresionante, fai que me sinta vivo/a.	1
+Estou moi ilusionado/a co proxecto no que estou a traballar.	1
+Que ben que estás a facer progresos no teu estudo de galego!	1
+Non puiden durmir nada esta noite. 😞	2
+O día non está a acompañar moito hoxe.	2
+Sinto moito a túa perda, estamos aquí para ti.	2
+Non estou seguro de poder facelo.	2
+A comida do restaurante non estaba moi boa.	2
+Non puiden chegar a tempo á reunión.	2
+Sinto que todo está a ir mal ultimamente.	2
+Non podo axudarte, desculpa.	2
+Sentínme decepcionado co resultado.	2
+A veces, os días son máis difíciles que outros.	2
+Non me gustou o final da película.	2
+Non sei se isto é o correcto a facer.	2
+A vida ás veces pode ser moi complicada.	2
+Non estou moi convencido desta idea.	2
+Sinto que non estou a ser comprendido.	2
+Non podo estar en dous sitios ao mesmo tempo.	2
+Necesito un descanso, estou esgotado.	2
+Non me sinto con ánimos para saír hoxe.	2
+A veces, é difícil manterse positivo.	2
+Que tal o tempo hoxe? #TempoGalicia	0
+Estou a facer os deberes. 📚	0
+A vida é unha montaña rusa de emocións.	0
+O café da mañá sempre me alegra o día. ☕	1
+Aínda non teño claro que facer esta fin de semana.	0
+Ás veces, é bo estar só e reflexionar.	1
+Aprendín moito este semestre na universidade.	1
+Os libros son a miña fonte de inspiración. #AmoOsLibros	1
+Os martes son o mellor día para ir á biblioteca.	1
+A rutina diaria pode ser confortable ás veces.	1
+O humor é unha parte importante da nosa vida cotiá. 😄	1
+É bo estar preparado para calquera situación.	1
+A mellor parte do día é o momento de relaxar.	1
+Sempre estou a descubrir cousas novas. #CuriosidadeInfinita	1
+A vida é unha aventura que merece ser vivida.	1
+Non hai nada como o cheiro da terra despois da choiva. 🌧️	1
+A tecnoloxía facilita moitas tarefas do día a día.	1
+O deporte é unha boa forma de manterse en forma. #VidaSaudable	1
+Un bo descanso é fundamental para a saúde.	1
+A arte é unha expresión poderosa das emocións humanas.	1
+O amor incondicional dos animais é inspirador. 🐾	1
+Un sorriso sincero pode alegrar o día a calquera persoa. 😊	1
+A música é unha linguaxe universal. 🎵	0
+O traballo en equipo é clave para o éxito.	1
+Unha boa educación é a base de todo. #EducaciónPrimordial	1
+A natureza sempre sorprende con paisaxes marabillosas. #NaturezaGalega	1
+Os recordos son tesoros que atesouramos na alma.	1
+A paciencia é unha virtude que se debe cultivar.	1
+Unha boa alimentación é esencial para manterse saudable. #VidaSana	1
+A comunicación é fundamental para entendernos uns aos outros.	1
+A mellora continua é a clave para a evolución persoal.	1
+O equilibrio entre o traballo e a vida persoal é crucial.	1
+O apoio dos amigos é unha balsa de salvamento nos momentos difíciles. #AmizadeVerdadeira	1
+A viaxe é unha forma de ampliar horizontes e abrir a mente.	1
+O coñecemento é poder, pero tamén unha responsabilidade.	0
+A xenerosidade é unha das maiores cualidades humanas.	1
+A adaptabilidade é esencial nun mundo en constante cambio.	0
+A empatía permite conectar coas persoas de forma máis profunda.	1
+A diversidade enriquece as nosas vidas e nos fai máis tolerantes.	1
+A creatividade é a chispa que fai brillar as ideas.	1
+A perseveranza pode superar calquera obstáculo.	1
+A humildade é unha virtude que admira a todos.	1
+A simplicidade ás veces é a solución máis efectiva.	1
+A fortaleza interior axuda a superar as adversidades.	1
+A curiosidade é o motor do descubrimento.	1
+A responsabilidade persoal é a clave do autodesenvolvemento.	1
+A honestidade é a base das relacións saudables.	1
+O compromiso coa causa axuda a cambiar o mundo.	1
+A serenidade interior é unha meta desexable.	1
+A tolerancia fai posibles a convivencia e a paz.	1
+A ciencia e a tecnoloxía están a transformar o noso mundo. #Innovación	0
+A xustiza é o pilar da sociedade civilizada.	1
+A liberdade é un dereito fundamental de todo ser humano.	0
+A solidariedade é esencial en tempos de crise. #Solidariedade	1
+A esperanza mantén viva a nosa esencia humana.	1
+A igualdade de oportunidades é o ideal a perseguir.	1
+A eficiencia axuda a optimizar os recursos dispoñibles.	1
+A seguridade é unha necesidade básica de todos os seres humanos.	0
+A transparencia é esencial para a confianza mutua.	0
+A colaboración é a chave para enfrontar os grandes retos	1
+A nosa empresa aposta pola innovación como motor de crecemento.	1
+Valoramos a nosa forza laboral como o noso activo máis valioso.	1
+Estamos comprometidos coa excelencia en cada aspecto do noso traballo.	1
+A nosa visión a longo prazo guía as nosas decisións estratéxicas.	0
+A satisfacción do cliente é o noso principal obxectivo.	1
+Estamos a expandir as nosas operacións para alcanzar novos mercados.	1
+A colaboración interdepartamental fortalece a nosa empresa.	1
+Celebramos os logros do noso equipo con orgullo.	1
+O noso compromiso coa calidade é non negociable.	0
+A nosa estrutura organizativa fomenta a eficiencia e a transparencia.	1
+Enfrontamos desafíos pero vemos cada obstáculo como unha oportunidade de crecemento.	1
+A nosa política de sustentabilidade reflicte o noso compromiso co medio ambiente.	1
+Estamos a redefinir os nosos procesos para mellorar a nosa competitividade.	1
+A nosa marca é recoñecida pola súa fiabilidade e compromiso.	1
+Estamos a investir en formación para o desenvolvemento continuo dos nosos empregados.	1
+A nosa estratexia de marketing está a xerar resultados positivos.	1
+A nosa presenza internacional está a fortalecerse progresivamente.	1
+Mantemos unha relación sólida e ética cos nosos provedores.	1
+A nosa política de RSC forma parte integrante da nosa identidade corporativa.	0
+A nosa empresa está comprometida coa igualdade de oportunidades.	1
+A nosa ética empresarial é inquebrantable en todo momento.	1
+Estamos a analizar datos para tomar decisións informadas e estratéxicas.	0
+A nosa capacidade de adaptación é fundamental para manter a nosa competitividade.	1
+Valoramos a diversidade como unha fonte de enriquecemento.	1
+A nosa misión é proporcionar solucións innovadoras aos nosos clientes.	1
+Estamos a optimizar os nosos recursos para maximizar a eficiencia operativa.	1
+A nosa política de xestión de talento atrai e retén os mellores profesionais.	1
+Estamos a explorar novas oportunidades de negocio dentro e fóra do país.	1
+A nosa reputación corporativa é o resultado do noso compromiso coa excelencia.	1
+Estamos a implementar medidas para reducir a nosa pegada ambiental.	1
+A nosa cultura corporativa promove a colaboración e a inovación.	1
+Estamos a fortalecer as nosas alianzas estratéxicas para a creación de valor.	1
+A nosa ética de traballo é unha das nosas maiores forzas competitivas.	1
+Estamos a expandir as nosas capacidades tecnolóxicas para satisfacer as demandas do mercado.	1
+A nosa adaptabilidade é clave para responder ás mudanzas no mercado.	1
+Estamos a investir en investigación e desenvolvemento para estar á vangarda da nosa industria.	1
+A nosa política de prezos está deseñada para garantir a competitividade sen comprometer a calidade.	1
+Estamos a desenvolver novas estratexias para afrontar os desafíos económicos actuais.	1
+A nosa empresa está a enfrontar dificultades financeiras significativas.	2
+A taxa de rotación de persoal é moi alta e afecta a continuidade operativa.	2
+As nosas vendas están a descender de maneira preocupante neste trimestre.	2
+Enfrentamos desafíos regulatórios que complican a nosa operativa diaria.	2
+Os nosos custos de produción disparáronse sen previsión.	2
+A nosa marca está a perder relevancia no mercado debido a fallos de marketing.	2
+A competencia está a ganar terreo a un ritmo alarmante.	2
+Tivemos que realizar despidos masivos para reducir gastos.	2
+A nosa estratexia de expansión internacional fracasou estrepitosamente.	2
+O noso sistema de xestión de inventarios está desactualizado e ineficaz.	2
+Enfrentamos denuncias de clientes insatisfeitos que afectan á nosa reputación.	2
+Os nosos proveedores non están a cumprir cos acordos de subministro.	2
+Tivemos que cancelar proxectos importantes por falta de financiamento.	2
+As nosas operacións están a ser afectadas por problemas técnicos reiterados.	2
+A nosa cadea de subministro está moi vulnerable a interrupcións.	2
+O noso equipo directivo está a experimentar unha falta de liderado claro.	2
+As nosas iniciativas de RSC non están a ser percibidas positivamente pola comunidade.	2
+Estamos a perder clientes habituais debido a un servizo ao cliente deficiente.	2
+A nosa política de prezos non está atraendo compradores potenciais.	2
+A nosa marca está asociada a problemas de calidade que non podemos resolver.	2
+As nosas negociacións coa banca para obter crédito non están a ser frutíferas.	2
+A nosa estratexia de marketing dixital non está a xerar os resultados esperados.	2
+A nosa infraestrutura tecnolóxica está obsoleta e impide o noso crecemento.	2
+Estamos a afrontar unha crise de confianza interna entre empregados e xestores.	2
+As nosas políticas de seguridade non protexen adecuadamente os nosos datos sensibles.	2
+A nosa política de reclutamento non está atraendo talento cualificado.	2
+Os nosos esforzos para diversificar os nosos produtos non están a ter éxito.	2
+Enfrentamos unha demanda legal que pode ter repercusións financeiras graves.	2
+A nosa estratexia de distribución non está a alcanzar os nosos mercados obxectivo.	2
+Estamos a perder posición de mercado ante competidores máis áxiles.	2
+A nosa estrutura organizativa está a ser criticada por ser ríxida e pouco adaptable.	2
+Enfrentamos problemas de stock que están a frustrar aos nosos clientes.	2
+A nosa política de devolución non está a manter a nosa boa imaxe de marca.	2
+Estamos a afrontar dificultades para obter financiamento para os nosos proxectos de expansión.	2
+As nosas relacións laborais están tensas debido a conflitos internos.	2
+Os nosos esforzos para integrar a tecnoloxía nos nosos procesos están a ser frustrados por resistencias internas.	2
+A nosa estratexia de entrada en novos mercados non está a ser ben recibida polos consumidores locais.	2
+Enfrentamos restricións de recursos humanos que limitan o noso crecemento.	2
+A nosa estratexia de comunicación interna está a ser criticada por falta de transparencia.	2
+Estamos a experimentar unha fuga de talento debido a unha cultura corporativa tóxica.	2
+As nosas prácticas de produción están a ser cuestionadas polos grupos ambientalistas.	2
+A nosa política de prezos baixos está a erodir a nosa marxe de beneficio.	2
+Estamos a perder oportunidades de negocio por non reaccionar con rapidez ante cambios no mercado.	2
+A nosa estratexia de branding non está a resoar co noso público obxectivo.	2
+Estamos a afrontar dificultades para atopar investidores dispostos a financiar os nosos proxectos.	2
+A nosa dependencia de mercados externos está a expor a nosa empresa a riscos de cambio.	2
+Enfrentamos problemas de conformidade regulamentaria que poderían resultar en sancións.	2
+A nosa estratexia de fidelización de clientes está a fallar debido a unha competencia máis agresiva.	2
+Estamos a experimentar retrasos persistentes na entrega de produtos aos nosos clientes.	2
+A nosa estratexia de captación de talento está a ser neutralizada polos nosos competidores.	2
+Estamos a enfrontar unha presión constante sobre os nosos márgenes de beneficio.	2
+A nosa reputación de marca está a ser afectada por rumores negativos nas redes sociais.	2
+Estamos a recibir críticas por non cumprir cos estándares éticos e de sustentabilidade.	2
+A nosa estratexia de internacionalización está a ser frustrada por barreiras comerciais imprevistas.	2
+Estamos a ter problemas de liquidez que afectan á nosa capacidade para pagar aos nosos provedores.	2
+A nosa política de xestión de crisis non está a ser eficaz para mitigar problemas imprevistos.	2
+Estamos a perder o apoio dos nosos accionistas debido a resultados financeiros decepcionantes.	2
+A nosa estratexia de expansión está a ser retrasada por falta de recursos financeiros.	2
+Enfrentamos unha falta de liderado claro que está a afectar a moral do equipo.	2
+A nosa estratexia de integración vertical está a ser dificultada por problemas de integración.	2
+Estamos a enfrontar problemas de conformidade cos estándares internacionais de calidade.	2
+A nosa estratexia de redución de custos está a impactar negativamente na moral dos empregados.	2
+Estamos a ser obxecto de escrutinio da prensa debido a problemas de xestión interna.	2
+A nosa infraestrutura física está a limitar a nosa capacidade para expandirnos.	2
+Enfrentamos unha escaseza de recursos financeiros que limita a nosa capacidade de crecemento.	2
+A nosa estratexia de marketing está a ser considerada como obsoleta polos nosos competidores.	2
+Estamos a ser criticados por non cumprir cos estándares de seguridade industrial.	2
+A nosa política de RSC está a ser percebida como unha fachada sen compromiso real.	2
+Estamos a recibir devolucións de produtos debido a problemas de calidade.	2
+A nosa estratexia de mitigación de riscos non está a protexer a empresa como se esperaba.	2
+Estamos a experimentar unha falta de cohesión no noso equipo de xestión.	2
+A nosa falta de investimento en I+D está a limitar a nosa capacidade de innovar.	2
+Estamos a enfrontar unha sobrecarga regulatória que impide a nosa flexibilidade operativa.	2
+A nosa política de prezos altos está a alienar aos nosos clientes habituais.	2
+Estamos a perder mercado ante competidores que ofrecen produtos similares a prezos máis baixos.	2
+A nosa estratexia de diversificación de produtos está a ser frustrada por problemas de fabricación.	2
+Estamos a recibir críticas por non cumprir cos estándares de responsabilidade ambiental.	2
+A nosa política de expansión está a ser complicada por problemas de financiamento externo.	2
+Estamos a ter dificultades para obter financiamento debido á nosa situación financeira actual.	2
+A nosa estratexia de desenvolvemento de mercado está a ser inhibida por barreiras comerciais.	2
+Estamos a perder talento clave debido a unha cultura de traballo non colaborativa.	2
+A nosa estratexia de pricing non está atraendo aos nosos clientes obxectivo.	2
+Estamos a enfrentar unha redución nas nosas ventas debido a unha crise	2
+A nosa empresa está a revisar as súas políticas internas.	0
+Estamos a considerar novas oportunidades de negocio.	1
+O noso equipo está a analizar os datos recollidos.	0
+Estamos a implementar novas tecnoloxías nos nosos procesos.	1
+A nosa sede principal está localizada na cidade de Santiago.	0
+Estamos a preparar informes para a nosa xunta directiva.	0
+O noso equipo está a estudar as tendencias do mercado.	0
+Estamos a manter reunións regulares co noso equipo de xestión.	0
+A nosa política de sustentabilidade está en liña cos estándares internacionais.	1
+A nosa empresa utiliza métodos avanzados de producción.	1
+Estamos a revisar os nosos procedementos internos para mellorar a eficiencia.	1
+Estamos a colaborar con socios estratéxicos en proxectos especiais.	1
+A nosa estrutura organizativa está deseñada para fomentar a colaboración entre departamentos.	1
+Estamos a investigar novas oportunidades de mercados internacionais.	1
+A nosa empresa está comprometida coa transparencia en todas as súas operacións.	1
+Estamos a optimizar os nosos recursos para maximizar a nosa eficiencia operativa.	1
+A nosa sede principal está equipada cunha infraestrutura moderna.	1
+Estamos a avaliar propostas para a mellora da nosa cadea de subministro.	1
+A nosa estratexia de marketing está baseada en análises de datos exhaustivas.	0
+Estamos a implementar políticas de teletraballo para adaptarnos ás novas circunstancias.	1
+A nosa empresa está a promover un ambiente de traballo inclusivo e diverso.	1
+Estamos a adoptar medidas para reducir o noso impacto ambiental.	1
+A nosa política de seguridade no traballo é prioritaria para a nosa empresa.	1
+Estamos a explorar novas oportunidades de financiamento para os nosos proxectos.	1
+A nosa empresa está a colaborar con universidades para proxectos de investigación.	0
+Estamos a implementar medidas de control de calidade en todas as etapas do proceso.	0
+A nosa estratexia de crecemento está enfocada en mercados emergentes.	0
+Estamos a actualizar o noso software de xestión empresarial para unha maior eficiencia.	1
+A nosa empresa está a promover a innovación como un valor central.	1
+Estamos a monitorizar de cerca os cambios na nosa industria.	0
+A nosa política de prezos está deseñada para reflectir o valor dos nosos produtos.	0
+Estamos a fortalecer as nosas alianzas estratéxicas para expandir a nosa rede.	1
+A nosa empresa está a expandir a súa presenza en plataformas de comercio electrónico.	1
+Estamos a actualizar as nosas políticas de recursos humanos para reflectir as mellores prácticas.	1
+A nosa empresa está a fomentar unha cultura de responsabilidade corporativa.	1
+Estamos a explorar oportunidades de crecemento dentro do noso mercado nacional.	1
+A nosa empresa está a implementar medidas para aumentar a satisfacción do cliente.	1
+Estamos a revisar as nosas estratexias de marketing para captar novos segmentos de mercado.	1
+A nosa empresa está a adoptar tecnoloxías de vangarda para mellorar a nosa competitividade.	1
+Estamos a estudar as tendencias de consumo para adaptar os nosos produtos e servizos.	1
+A nosa empresa está a reforzar a súa presenza en redes sociais para mellorar a comunicación coa nosa audiencia.	1
+Estamos a desenvolver novos produtos para diversificar a nosa oferta.	1
+A nosa empresa está a explorar oportunidades de colaboración con startups innovadoras.	1
+Estamos a promover unha cultura de traballo flexible para adaptarnos ás necesidades dos nosos empregados.	1
+A nosa empresa está a promover a formación continua para o desenvolvemento profesional dos nosos empregados.	1
+Estamos a realizar auditorías internas para garantir a conformidade cos estándares de calidade.	1
+A nosa empresa está a lanzar unha iniciativa para mellorar a eficiencia enerxética nas nosas instalacións.	1
+Estamos a implementar programas de feedback dos empregados para mellorar a comunicación interna.	1
+A nosa empresa está a estudar as opcións para mellorar a nosa política de xestión de riscos.	1
+Estamos a colaborar con consultores externos para obter asesoramento estratéxico.	0
+A nosa empresa está a promover unha política de igualdade de oportunidades e diversidade.	1
+Estamos a implementar medidas para mellorar a nosa rexeneración de residuos.	1
+A nosa empresa está a revisar as súas operacións para identificar áreas de optimización.	1
+Estamos a investigar novas formas de utilizar a tecnoloxía blockchain para optimizar os nosos procesos.	1
+A nosa empresa está a estudar as implicacións das regulacións recentes no noso sector.	0
+Estamos a lanzar un programa de mentoring para os nosos novos empregados.	0
+A nosa empresa está a estudar as opcións de financiamento para un proxecto de expansión.	0
+Estamos a actualizar a nosa páxina web para mellorar a experiencia do usuario.	1
+A nosa empresa está a considerar as opcións para implementar un sistema de xestión de recursos humanos.	0
+Estamos a implementar medidas para protexer a nosa propiedade intelectual.	0
+A nosa empresa está a revisar as súas políticas de viaxes para reducir os custos.	1
+O enchufe é de cor escura.	0
+Collín un cazo do estante.	0
+O teléfono estaba a sonar.	0
+Gardei o libro na gabeta.	0
+O galego é unha lingua flexiva.	0
